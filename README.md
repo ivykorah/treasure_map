@@ -1,2 +1,2 @@
 # treasure_map
-map out reasure location given position
+map out treasure location given position
